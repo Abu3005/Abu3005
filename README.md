@@ -3,7 +3,7 @@
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@AdetonaMustaph2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdetonaMustaph2)](https://twitter.com/AdetonaMustaph2) [![Mail Badge](https://img.shields.io/badge/-Non-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](Non) [![Linkedin Badge](https://img.shields.io/badge/-adetonamustapha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adetona-mustapha-1a6683247/) [![Mail Badge](https://img.shields.io/badge/-@mustaphaadetona-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-adetona3005-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adetona3005@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-adetona3005-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adetona3005@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@AdetonaMustaph2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdetonaMustaph2)](https://twitter.com/AdetonaMustaph2) [![Mail Badge](https://img.shields.io/badge/-Non-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](Non) [![Linkedin Badge](https://img.shields.io/badge/-adetonamustapha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adetona-mustapha-1a6683247/) [![Mail Badge](https://img.shields.io/badge/-@mustaphaadetona-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) 
 
 <!-- TODO: Add last video link -->
 
