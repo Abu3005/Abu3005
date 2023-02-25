@@ -7,8 +7,8 @@
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently learning at @ALX
-- :computer: Most used line of code `git commit add ."`
+- 🔭 I’m currently learning at [ALX](https://www.alxafrica.com/)
+- :computer: Most used line of code `git add.`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: adetona3005@gmail.com.
 - 😄 Pronouns: 
