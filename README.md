@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 , I'm Adetona Mustapha Abodunrin</h1>
-<h3 align="center">Software Engineer / full stack Web Developer </h3><br/>
+<h3 align="center">Front-End Developer </h3><br/>
 
 :mailbox: Reach me out!
 
