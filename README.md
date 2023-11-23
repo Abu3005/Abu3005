@@ -29,7 +29,7 @@
 <br/>
 <h2 align="left">Github stats:</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abu3005&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Abu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abu3005&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Abu3005/github-readme-stats)
 
 <br/>
 <h2 align="left">Streak stats:</h2>
@@ -40,7 +40,7 @@
 <br/>
 <h2 align="left">Coding stats:</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abu3005&&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abu3005's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abu3005&&theme=react-dark)](https://github.com/Abu3005/github-readme-activity-graph)
 
 ##### profile visits
 
